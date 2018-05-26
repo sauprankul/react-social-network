@@ -952,3 +952,9 @@ g__input-underline::after {
   text-shadow: none;
   background-color: transparent;
   border: 0; }
+.flaticon-neutral:before,.flaticon-sad-2:before,.flaticon-happy-2:before,.flaticon-happy:before {
+    padding-left: 25%;
+}
+.MuiIconButton-root-200 {
+    z-index: 100;
+}
